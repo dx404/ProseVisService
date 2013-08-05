@@ -1,2 +1,0 @@
-#!/bash/bash
-top -u $USER -b >> log/prof_pv${taskID}_${time_stamp}.txt 
