@@ -37,11 +37,8 @@ Running Environment
 	-Xmx option. Currently, -Xmx2g is set to prevent the heap-oversize issues. 
 
 
-Major API File Components of
+Major functional Components
 -------------------------------------------------------------------------------
-	The core script of this program is control.sh which is under the project root 
-	directory. the input files must be stored in zip format at data/src/. The output
-	files will be put under data/results/.  
 	
 	control.sh - 
 		control.sh is the entry point of this application, which is remotely invoked 
