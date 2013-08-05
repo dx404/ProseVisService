@@ -37,11 +37,7 @@ Running Environment
 	-Xmx option. Currently, -Xmx2g is set to prevent the heap-oversize issues. 
 
 
-Overview of the executing sequence and Running Requirements
--------------------------------------------------------------------------------
-
-
-Major API Components of This Program
+Major API File Components of
 -------------------------------------------------------------------------------
 	The core script of this program is control.sh which is under the project root 
 	directory. the input files must be stored in zip format at data/src/. The output
@@ -55,6 +51,9 @@ Major API Components of This Program
 		variables, unzipping files and parses the meta-info JSON file. Distinguishing 
 		two different tasks from the JSON file, it branches to either of the two 
 		templates batch submission script for job processing. 
+	
+	recycle.sh - 
+		The script for clean up the ./data scrach directory 
 	
 	module/ - 
 		The functional module is put under the module directory. The singleDoc.sh and 
@@ -75,4 +74,15 @@ Major API Components of This Program
 		does not stop the service. To run download.js on the server side, the NodeJS 
 		framwork is expected to be installed. Upon job completion, The python script 
 		noticeToUser.py sends an notification email to the end user with a file URL.
+		
+	data/ - 
+		An scratch space of this project which stores the user source files and product 
+		files. The downloading space resides at data/results/. Any user could only access
+		the files that begins with "rpv" at data/results/. 
+	
+	profiler/
+		A basic program-profiling component is added to the project to monitor the 
+		performance. For now, it simply records the CPU and memory usage based on the 
+		Linux top utility. More advanced profiling tools will be added in the future.
+	
 	
