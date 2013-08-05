@@ -1,0 +1,349 @@
+top - 15:29:40 up 11 days, 20:04,  0 users,  load average: 0.38, 0.20, 0.25
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 33.7%us,  0.4%sy,  0.0%ni, 65.8%id,  0.1%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  4455660k used, 28359864k free,     5488k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   102484k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97576 duotacc   20   0 6018m  23m  11m S 122.4  0.1   0:00.70 java             
+ 97578 duotacc   20   0 15424 1628  860 R  1.9  0.0   0:00.02 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97542 duotacc   20   0 3335m  49m  10m S  0.0  0.2   0:07.95 java              
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:41 up 11 days, 20:04,  0 users,  load average: 0.38, 0.20, 0.25
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s):  8.3%us,  1.2%sy,  0.0%ni, 89.9%id,  0.6%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  4507424k used, 28308100k free,     5488k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   136516k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97576 duotacc   20   0 6020m  33m  11m S 148.6  0.1   0:02.23 java             
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.03 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97542 duotacc   20   0 3335m  49m  10m S  0.0  0.2   0:07.95 java              
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:42 up 11 days, 20:04,  0 users,  load average: 0.51, 0.23, 0.26
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 12.3%us,  1.7%sy,  0.0%ni, 85.5%id,  0.5%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  4525868k used, 28289656k free,     5496k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   139512k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97576 duotacc   20   0 9922m  47m  13m S 222.0  0.1   0:04.48 java             
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.04 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97542 duotacc   20   0 3335m  49m  10m S  0.0  0.2   0:07.95 java              
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:43 up 11 days, 20:04,  0 users,  load average: 0.51, 0.23, 0.26
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 10.6%us,  0.6%sy,  0.0%ni, 88.8%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  4913876k used, 27901648k free,     5496k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   139544k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97576 duotacc   20   0 9922m  57m  13m S 180.6  0.2   0:06.31 java             
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.05 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97542 duotacc   20   0 3335m  49m  10m S  0.0  0.2   0:07.95 java              
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:44 up 11 days, 20:04,  0 users,  load average: 0.51, 0.23, 0.26
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 13.8%us,  0.4%sy,  0.0%ni, 85.4%id,  0.3%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  4918800k used, 27896724k free,     5500k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   141376k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97576 duotacc   20   0 9987m  58m  13m S 171.7  0.2   0:08.05 java             
+ 97542 duotacc   20   0 3400m  50m  10m S 53.3  0.2   0:08.49 java              
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.06 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:45 up 11 days, 20:04,  0 users,  load average: 0.51, 0.23, 0.26
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 24.0%us,  0.2%sy,  0.0%ni, 75.4%id,  0.4%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  4923032k used, 27892492k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   141724k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  54m  10m S 264.7  0.2   0:11.17 java             
+ 97576 duotacc   20   0 9987m  56m  13m S 120.5  0.2   0:09.27 java             
+ 97578 duotacc   20   0 17476 1728  952 R  2.0  0.0   0:00.08 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:46 up 11 days, 20:04,  0 users,  load average: 0.51, 0.23, 0.26
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 23.8%us,  0.9%sy,  0.0%ni, 75.2%id,  0.0%wa,  0.0%hi,  0.1%si,  0.0%st
+Mem:  32815524k total,  4974244k used, 27841280k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   142012k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  77m  10m S 283.2  0.2   0:14.04 java             
+ 97576 duotacc   20   0 9987m  56m  13m S 116.4  0.2   0:10.45 java             
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.09 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:48 up 11 days, 20:04,  0 users,  load average: 0.63, 0.26, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 18.6%us,  1.1%sy,  0.0%ni, 80.3%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  5493248k used, 27322276k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   142288k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  80m  10m S 206.2  0.3   0:16.13 java             
+ 97576 duotacc   20   0 9987m  57m  13m S 107.5  0.2   0:11.54 java             
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.10 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:49 up 11 days, 20:04,  0 users,  load average: 0.63, 0.26, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 15.5%us,  1.4%sy,  0.0%ni, 83.1%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  5531048k used, 27284476k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   142676k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  82m  10m S 168.7  0.3   0:17.84 java             
+ 97576 duotacc   20   0 9987m  66m  13m S 101.6  0.2   0:12.57 java             
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.11 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:50 up 11 days, 20:04,  0 users,  load average: 0.63, 0.26, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 11.5%us,  1.4%sy,  0.0%ni, 87.0%id,  0.0%wa,  0.0%hi,  0.1%si,  0.0%st
+Mem:  32815524k total,  5569328k used, 27246196k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   143072k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  82m  10m S 107.5  0.3   0:18.93 java             
+ 97576 duotacc   20   0 9987m  66m  13m S 97.7  0.2   0:13.56 java              
+ 97578 duotacc   20   0 17476 1728  952 R  2.0  0.0   0:00.13 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:51 up 11 days, 20:04,  0 users,  load average: 0.63, 0.26, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 11.6%us,  1.2%sy,  0.0%ni, 87.1%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  5566668k used, 27248856k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   143580k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  79m  10m S 132.2  0.2   0:20.27 java             
+ 97576 duotacc   20   0 9987m  65m  13m S 73.0  0.2   0:14.30 java              
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.14 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:52 up 11 days, 20:04,  0 users,  load average: 0.63, 0.26, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 11.2%us,  0.9%sy,  0.0%ni, 87.8%id,  0.0%wa,  0.0%hi,  0.1%si,  0.0%st
+Mem:  32815524k total,  5581372k used, 27234152k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   144036k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  79m  10m S 116.4  0.2   0:21.45 java             
+ 97576 duotacc   20   0 9987m  65m  13m S 76.0  0.2   0:15.07 java              
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.15 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:53 up 11 days, 20:04,  0 users,  load average: 0.58, 0.26, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 10.8%us,  1.5%sy,  0.0%ni, 87.6%id,  0.0%wa,  0.0%hi,  0.1%si,  0.0%st
+Mem:  32815524k total,  5584268k used, 27231256k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   144540k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  79m  10m S 124.3  0.2   0:22.71 java             
+ 97576 duotacc   20   0 9987m  65m  13m S 73.0  0.2   0:15.81 java              
+ 97578 duotacc   20   0 17476 1728  952 R  2.0  0.0   0:00.17 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:54 up 11 days, 20:04,  0 users,  load average: 0.58, 0.26, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 15.8%us,  1.7%sy,  0.0%ni, 82.5%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  5919588k used, 26895936k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   145016k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  79m  10m S 170.7  0.2   0:24.44 java             
+ 97576 duotacc   20   0 9987m  66m  13m S 109.5  0.2   0:16.92 java             
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.18 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:55 up 11 days, 20:04,  0 users,  load average: 0.58, 0.26, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s):  9.8%us,  1.0%sy,  0.0%ni, 89.2%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  5918584k used, 26896940k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   145460k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  79m  10m S 110.5  0.2   0:25.56 java             
+ 97576 duotacc   20   0 9987m  66m  13m S 65.1  0.2   0:17.58 java              
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.19 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:56 up 11 days, 20:04,  0 users,  load average: 0.58, 0.26, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s):  9.6%us,  0.8%sy,  0.0%ni, 89.6%id,  0.0%wa,  0.0%hi,  0.1%si,  0.0%st
+Mem:  32815524k total,  5933008k used, 26882516k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   145900k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  79m  10m S 105.6  0.2   0:26.63 java             
+ 97576 duotacc   20   0 9987m  66m  13m S 56.2  0.2   0:18.15 java              
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.20 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:57 up 11 days, 20:04,  0 users,  load average: 0.58, 0.26, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 10.6%us,  0.9%sy,  0.0%ni, 88.6%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  5933004k used, 26882520k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   146236k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  79m  10m S 131.3  0.2   0:27.96 java             
+ 97576 duotacc   20   0 9987m  66m  13m S 51.3  0.2   0:18.67 java              
+ 97578 duotacc   20   0 17476 1728  952 R  2.0  0.0   0:00.22 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:58 up 11 days, 20:04,  0 users,  load average: 0.61, 0.27, 0.27
+Tasks: 684 total,   1 running, 683 sleeping,   0 stopped,   0 zombie
+Cpu(s): 16.7%us,  1.4%sy,  0.0%ni, 82.0%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  5988072k used, 26827452k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   146560k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97542 duotacc   20   0 3400m  81m  10m S 177.6  0.3   0:29.76 java             
+ 97576 duotacc   20   0 9987m  66m  13m S 110.5  0.2   0:19.79 java             
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.23 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+
+
+top - 15:29:59 up 11 days, 20:04,  0 users,  load average: 0.61, 0.27, 0.27
+Tasks: 685 total,   1 running, 684 sleeping,   0 stopped,   0 zombie
+Cpu(s):  2.8%us,  0.6%sy,  0.0%ni, 96.5%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  3973572k used, 28841952k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   126896k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97578 duotacc   20   0 17476 1728  952 R  1.0  0.0   0:00.24 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97542 duotacc   20   0 3400m  81m  10m S  0.0  0.3   0:29.76 java              
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+ 99226 duotacc   20   0  105m 1212  976 S  0.0  0.0   0:00.00 mary-close.sh     
+ 99227 duotacc   20   0 98.5m  568  496 S  0.0  0.0   0:00.00 sleep             
+
+
+top - 15:30:00 up 11 days, 20:04,  0 users,  load average: 0.61, 0.27, 0.27
+Tasks: 685 total,   1 running, 684 sleeping,   0 stopped,   0 zombie
+Cpu(s):  0.1%us,  0.1%sy,  0.0%ni, 99.9%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  3973216k used, 28842308k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   126980k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97578 duotacc   20   0 17476 1732  952 R  1.0  0.0   0:00.25 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97542 duotacc   20   0 3400m  81m  10m S  0.0  0.3   0:29.76 java              
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+ 99226 duotacc   20   0  105m 1212  976 S  0.0  0.0   0:00.00 mary-close.sh     
+ 99227 duotacc   20   0 98.5m  568  496 S  0.0  0.0   0:00.00 sleep             
+
+
+top - 15:30:01 up 11 days, 20:04,  0 users,  load average: 0.61, 0.27, 0.27
+Tasks: 685 total,   1 running, 684 sleeping,   0 stopped,   0 zombie
+Cpu(s):  0.0%us,  0.1%sy,  0.0%ni, 99.9%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  3973216k used, 28842308k free,     5516k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   126980k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97578 duotacc   20   0 17476 1732  952 R  1.0  0.0   0:00.26 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97542 duotacc   20   0 3400m  81m  10m S  0.0  0.3   0:29.76 java              
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+ 99226 duotacc   20   0  105m 1212  976 S  0.0  0.0   0:00.00 mary-close.sh     
+ 99227 duotacc   20   0 98.5m  568  496 S  0.0  0.0   0:00.00 sleep             
+
+
+top - 15:30:02 up 11 days, 20:04,  0 users,  load average: 0.61, 0.27, 0.27
+Tasks: 689 total,   1 running, 688 sleeping,   0 stopped,   0 zombie
+Cpu(s):  0.3%us,  0.4%sy,  0.0%ni, 96.3%id,  3.0%wa,  0.0%hi,  0.1%si,  0.0%st
+Mem:  32815524k total,  3975420k used, 28840104k free,     5596k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   127260k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97578 duotacc   20   0 17476 1732  952 R  2.0  0.0   0:00.28 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97542 duotacc   20   0 3400m  81m  10m S  0.0  0.3   0:29.76 java              
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+ 99226 duotacc   20   0  105m 1212  976 S  0.0  0.0   0:00.00 mary-close.sh     
+ 99227 duotacc   20   0 98.5m  568  496 S  0.0  0.0   0:00.00 sleep             
+
+
+top - 15:30:03 up 11 days, 20:05,  0 users,  load average: 0.57, 0.26, 0.27
+Tasks: 689 total,   1 running, 688 sleeping,   0 stopped,   0 zombie
+Cpu(s):  0.0%us,  0.1%sy,  0.0%ni, 99.9%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  32815524k total,  3975552k used, 28839972k free,     5596k buffers
+Swap:  4194296k total,    22560k used,  4171736k free,   127272k cached
+
+   PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND           
+ 97578 duotacc   20   0 17476 1736  952 R  1.0  0.0   0:00.29 top               
+ 97536 duotacc   20   0  105m 1252  996 S  0.0  0.0   0:00.00 slurm_script      
+ 97537 duotacc   20   0  105m 1240 1004 S  0.0  0.0   0:00.00 marytts-server.   
+ 97542 duotacc   20   0 3400m  81m  10m S  0.0  0.3   0:29.76 java              
+ 97575 duotacc   20   0  105m 1240 1000 S  0.0  0.0   0:00.00 monitor.sh        
+ 99226 duotacc   20   0  105m 1212  976 S  0.0  0.0   0:00.00 mary-close.sh     
+ 99227 duotacc   20   0 98.5m  568  496 S  0.0  0.0   0:00.00 sleep             
+

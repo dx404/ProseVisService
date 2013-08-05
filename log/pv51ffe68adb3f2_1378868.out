@@ -1,0 +1,488 @@
+==== Profiling ====
+Meandre MAU Executor [1.0.2vcli/1.4.12.8740 (Sara)]
+All rights reserved by DITA, NCSA, UofI (2007-2012)
+THIS SOFTWARE IS PROVIDED UNDER University of Illinois/NCSA OPEN SOURCE LICENSE.
+
+Executing MAU file Service_Process_TEI_XML_through_OpenMary.mau
+Preparing flow: meandre://seasr.org/services/service-process-tei-xml-through-openmary/
+Creating temp run dir Service_Process_TEI_XML_through_OpenMary.mau.run
+Creating temp public resources dir Service_Process_TEI_XML_through_OpenMary.mau.public_resources
+
+Preparation completed correctly
+
+Execution started at: 2013-08-05T12:54:10
+----------------------------------------------------------------------------
+Mary TTS client 4.3.0 (impl. 20101220)
+Connected to localhost:59125, Mary TTS server 5.0 (impl. unknown)
+----------------------------------------------------------------------------
+Execution finished at: 2013-08-05T12:54:32
+Execution finished gracefully.
+----------------------------------------------------------------------------
+
+Flow execution statistics
+
+Flow unique execution ID : meandre://seasr.org/services/service-process-tei-xml-through-openmary/81725AF0/1375725249981/648022838/
+Flow state               : ended
+Started at               : Mon Aug 05 12:54:10 CDT 2013
+Last update              : Mon Aug 05 12:54:32 CDT 2013
+Total run time (ms)      : 22135
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/trigger-message/3
+	Executable components state                : disposed
+	Times the executable components fired      : 0
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 0
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/text-format/3
+	Executable components state                : disposed
+	Times the executable components fired      : 0
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 0
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/trigger-message/2
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 3
+	Pieces of data pushed                      : 0
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/text-format/2
+	Executable components state                : disposed
+	Times the executable components fired      : 0
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 0
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/add-tuple-attribute/26
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 101
+	Pieces of data pulled                      : 8971
+	Pieces of data pushed                      : 1494
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/trigger-message/1
+	Executable components state                : disposed
+	Times the executable components fired      : 4
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 13
+	Pieces of data pushed                      : 6
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/write-to-archive/0
+	Executable components state                : disposed
+	Times the executable components fired      : 9
+	Accumulated executable components run time : 779
+	Pieces of data pulled                      : 38
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 8
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/tuple-to-csv/2
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 156
+	Pieces of data pulled                      : 20
+	Pieces of data pushed                      : 9
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/add-tuple-attribute/23
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 120
+	Pieces of data pulled                      : 9706
+	Pieces of data pushed                      : 1494
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/add-tuple-attribute/21
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 116
+	Pieces of data pulled                      : 8962
+	Pieces of data pushed                      : 1494
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/select-nodes-via-xpath/30
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 18516
+	Pieces of data pulled                      : 2241
+	Pieces of data pushed                      : 747
+	Number of properties read                  : 7
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/select-nodes-via-xpath/2
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 18090
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 747
+	Number of properties read                  : 7
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/stream-delimiter-filter/8
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 3
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/abort-execution/0
+	Executable components state                : disposed
+	Times the executable components fired      : 0
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 0
+	Number of properties read                  : 2
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/stream-delimiter-filter/7
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/stream-delimiter-filter/6
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 2
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/stream-delimiter-filter/5
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 1
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 2
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/stream-delimiter-filter/4
+	Executable components state                : disposed
+	Times the executable components fired      : 0
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 0
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/stream-delimiter-filter/3
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 2
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/stream-delimiter-filter/2
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 2
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/stream-delimiter-filter/1
+	Executable components state                : disposed
+	Times the executable components fired      : 5
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 15
+	Pieces of data pushed                      : 3
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/send-email/8
+	Executable components state                : disposed
+	Times the executable components fired      : 0
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 7
+	Pieces of data pushed                      : 0
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/stream-delimiter-filter/0
+	Executable components state                : disposed
+	Times the executable components fired      : 5
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 15
+	Pieces of data pushed                      : 3
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/select-nodes-via-xpath/29
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 335
+	Pieces of data pulled                      : 2241
+	Pieces of data pushed                      : 747
+	Number of properties read                  : 7
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/select-nodes-via-xpath/24
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 18517
+	Pieces of data pulled                      : 2241
+	Pieces of data pushed                      : 747
+	Number of properties read                  : 7
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/tuple-aggregator/4
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 45
+	Pieces of data pulled                      : 5228
+	Pieces of data pushed                      : 10
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/select-nodes-via-xpath/22
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 18523
+	Pieces of data pulled                      : 2241
+	Pieces of data pushed                      : 747
+	Number of properties read                  : 7
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/xml-to-xml-with-xsl/18
+	Executable components state                : disposed
+	Times the executable components fired      : 748
+	Accumulated executable components run time : 4821
+	Pieces of data pulled                      : 2314
+	Pieces of data pushed                      : 747
+	Number of properties read                  : 2
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/read-text/7
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 15
+	Pieces of data pulled                      : 3
+	Pieces of data pushed                      : 2
+	Number of properties read                  : 8
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/csv-to-tuple/20
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 219
+	Pieces of data pulled                      : 2241
+	Pieces of data pushed                      : 1494
+	Number of properties read                  : 5
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/xml-to-xml-with-xsl/14
+	Executable components state                : disposed
+	Times the executable components fired      : 4
+	Accumulated executable components run time : 254
+	Pieces of data pulled                      : 15
+	Pieces of data pushed                      : 3
+	Number of properties read                  : 2
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/read-text/3
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 5
+	Pieces of data pulled                      : 3
+	Pieces of data pushed                      : 2
+	Number of properties read                  : 8
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/search-text/2
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 2
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 5
+	Number of properties read                  : 5
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/search-text/1
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 3
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 5
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/text-cleaner/27
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 18509
+	Pieces of data pulled                      : 2241
+	Pieces of data pushed                      : 747
+	Number of properties read                  : 7
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/flow-parameter/5
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 130
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 6
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/read-text/17
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 5
+	Pieces of data pulled                      : 3
+	Pieces of data pushed                      : 2
+	Number of properties read                  : 8
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/openmary-client/31
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 18621
+	Pieces of data pulled                      : 2241
+	Pieces of data pushed                      : 747
+	Number of properties read                  : 8
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/read-xml/2
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 104
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 6
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/flow-parameter/1
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 134
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 3
+	Number of properties read                  : 6
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/read-text/15
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 5
+	Pieces of data pulled                      : 3
+	Pieces of data pushed                      : 2
+	Number of properties read                  : 8
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/flow-parameter/0
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 134
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 6
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/fork-x5/28
+	Executable components state                : disposed
+	Times the executable components fired      : 747
+	Accumulated executable components run time : 18416
+	Pieces of data pulled                      : 2241
+	Pieces of data pushed                      : 3735
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/xml-to-xml-with-xsl/5
+	Executable components state                : disposed
+	Times the executable components fired      : 4
+	Accumulated executable components run time : 318
+	Pieces of data pulled                      : 14
+	Pieces of data pushed                      : 3
+	Number of properties read                  : 2
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/xml-to-xml-with-xsl/4
+	Executable components state                : disposed
+	Times the executable components fired      : 4
+	Accumulated executable components run time : 1257
+	Pieces of data pulled                      : 15
+	Pieces of data pushed                      : 3
+	Number of properties read                  : 2
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/fork-x2/3
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 3
+	Pieces of data pushed                      : 2
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/push-text/6
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 132
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/push-text/19
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 129
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/fork-x2/1
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 1
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 6
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/push-text/4
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 133
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/fork-x2/0
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 6
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/push-text/3
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 131
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/push-text/1
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 130
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/text-cleaner/11
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 2
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 3
+	Number of properties read                  : 7
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/text-format/7
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 3
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 4
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/push-text/13
+	Executable components state                : disposed
+	Times the executable components fired      : 1
+	Accumulated executable components run time : 132
+	Pieces of data pulled                      : 0
+	Pieces of data pushed                      : 1
+	Number of properties read                  : 3
+
+	Executable components instance ID          : meandre://seasr.org/services/service-process-tei-xml-through-openmary/instance/text-format/6
+	Executable components state                : disposed
+	Times the executable components fired      : 3
+	Accumulated executable components run time : 0
+	Pieces of data pulled                      : 9
+	Pieces of data pushed                      : 3
+	Number of properties read                  : 4
+
+Cleaning temp run dir Service_Process_TEI_XML_through_OpenMary.mau.run
+Cleaning temp published resources dir Service_Process_TEI_XML_through_OpenMary.mau.public_resources
+

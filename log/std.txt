@@ -1,0 +1,17 @@
+Archive:  data/src/pv51ffe7ae0c4a3.zip
+ extracting: data/src/pv51ffe7ae0c4a3/src.zip  
+  inflating: data/src/pv51ffe7ae0c4a3/info.json  
+Hello, we are starting to compare multiple documents
+-----------------------------------------------------------------
+              Welcome to the Stampede Supercomputer              
+-----------------------------------------------------------------
+
+--> Verifying valid submit host (login2)...OK
+--> Enforcing max jobs per user...OK
+--> Verifying availability of your home dir (/home1/02492/duotacc)...OK
+--> Verifying availability of your work dir (/work/02492/duotacc)...OK
+--> Verifying availability of your scratch dir (/scratch/02492/duotacc)...OK
+--> Verifying access to desired queue (development)...OK
+--> Verifying job request is within current queue limits...OK
+--> Checking available allocation (TG-TRA130023)...OK
+Submitted batch job 1378906

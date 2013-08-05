@@ -1,0 +1,5 @@
+2013.08.05 12:59:08.773::INFO:  Preparing flow meandre://seasr.org/services/service-process-zip-tei-xml-through-openmary/81725B16/1375725548773/932450705/   [org.meandre.core.engine.Conductor.buildExecutor] <main:1>
+2013.08.05 12:59:09.346::WARNING:  The system resources missing. Adding them...   [org.meandre.plugins.PluginFactory.initializeGlobalPublicFileServer] <main:1>
+2013.08.05 12:59:09.384::INFO:  Flow prepared. meandre://seasr.org/services/service-process-zip-tei-xml-through-openmary/81725B16/1375725548773/932450705/ waiting for execution   [org.meandre.core.engine.Conductor.buildExecutor] <main:1>
+2013.08.05 12:59:09.387::INFO:  Executing flow meandre://seasr.org/services/service-process-zip-tei-xml-through-openmary/81725B16/1375725548773/932450705/   [org.meandre.core.engine.Executor.execute] <main:1>
+2013.08.05 13:09:56.892::INFO:  Finishing flow meandre://seasr.org/services/service-process-zip-tei-xml-through-openmary/81725B16/1375725548773/932450705/   [org.meandre.core.engine.MrProper.checkComponentsNotRunning] <725B16/1375725548773/932450705/mr-proper:74>

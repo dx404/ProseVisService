@@ -21,13 +21,14 @@
 #   The ProseVisService directory servers as the new root directory
 #   The input files and output files are put under ./data directory 
 #------------------------------------------------------------------------------
-taskID=$1
-username=$(id -un)
-hostname=$(hostname)
-pv_root=$HOME/ProseVisService
-src_dir=$pv_root/data/src
-dest_dir=$pv_root/data/results
-user_email="prosevis@$hostname"
+export taskID=$1
+export username=$(id -un)
+export hostname=$(hostname)
+export pv_root=$HOME/ProseVisService
+export src_dir=$pv_root/data/src
+export dest_dir=$pv_root/data/results
+export user_email="prosevis@$hostname"
+export time_stamp=$(date +%s)
 
 #------------------------------------------------------------------------------
 #   Set up the enviroment paths
@@ -36,8 +37,23 @@ export PATH=\
 $WORK/bin/marytts-5.0/bin:\
 $pv_root/module/:\
 $pv_root/tookit/:\
+$pv_root/profiler/:\
 $pv_root/publisher/:\
 $PATH
+
+#------------------------------------------------------------------------------
+# Start the downloading service
+#------------------------------------------------------------------------------
+download_pid=$(ps -u $username | grep "download.js" | awk '{print $1}')
+if [ -n "$download_pid" ]; then 
+	export port=$(netstat -pl | grep $download_pid | awk '{print $4}' | cut -d ':' -f 2)
+else
+	export port=$(portGet.py)
+fi
+
+nohup download.js $port \
+> $pv_root/log/pv${taskID}_download.out \
+2> $pv_root/log/pv${taskID}_download.err &
 
 #------------------------------------------------------------------------------
 # Change the current working directory to ProseVisService 
@@ -89,23 +105,3 @@ else
 		$taskID 
 	done
 fi
-
-#------------------------------------------------------------------------------
-# Start the downloading service
-#------------------------------------------------------------------------------
-download_pid=$(ps -u $username | grep "download.js" | awk '{print $1}')
-if [ -n "$download_pid" ]; then 
-	port=$(netstat -pl | grep $download_pid | awk '{print $4}' | cut -d ':' -f 2)
-else
-	port=$(portGet.py)
-fi
-
-nohup download.js $port \
-> $pv_root/log/pv${taskID}_download.out \
-2> $pv_root/log/pv${taskID}_download.err &
-
-#------------------------------------------------------------------------------
-# Send an email to the end user about the processing result 
-#------------------------------------------------------------------------------
-user_email=$(jsonGet.py $src_dir/pv${taskID}/info.json email)
-noticeToUser.py $taskID $user_email $hostname:$port

@@ -1,0 +1,15 @@
+java version "1.7.0_21"
+Java(TM) SE Runtime Environment (build 1.7.0_21-b11)
+Java HotSpot(TM) 64-Bit Server VM (build 23.21-b01, mixed mode)
+
+MARY server 5.0 starting as a HTTP server... started in 4.597 s
+2013.08.05 12:54:09.870::INFO:  Changing the logging level from INFO to INFO  
+2013.08.05 12:54:09.981::INFO:  Preparing flow meandre://seasr.org/services/service-process-tei-xml-through-openmary/81725AF0/1375725249981/648022838/  
+ INFO [main] (?:?) - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2013.08.05 12:54:10.540::WARNING:  The system resources missing. Adding them...  
+ INFO [main] (?:?) - jetty-6.1.x
+ INFO [main] (?:?) - Started SocketConnector@0.0.0.0:10000
+2013.08.05 12:54:10.592::INFO:  Flow prepared. meandre://seasr.org/services/service-process-tei-xml-through-openmary/81725AF0/1375725249981/648022838/ waiting for execution  
+2013.08.05 12:54:10.595::INFO:  Executing flow meandre://seasr.org/services/service-process-tei-xml-through-openmary/81725AF0/1375725249981/648022838/  
+2013.08.05 12:54:32.618::INFO:  Finishing flow meandre://seasr.org/services/service-process-tei-xml-through-openmary/81725AF0/1375725249981/648022838/  
+/tmp/slurmd/job1378868/slurm_script: line 56: 55341 Terminated              marytts-server.sh
